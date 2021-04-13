@@ -76,3 +76,4 @@ store;
 // User functionality // how you change things in the store // or ==> WHEN YOU TAKE ACTION
 const action = createPolicy("Mark", 100);
 store.dispatch(action);
+
